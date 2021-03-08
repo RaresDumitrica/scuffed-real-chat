@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Scuffed Real Time Chat Made with React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The project is hosted on: https://realtime-chat-80299.web.app/
 
 ## Available Scripts
 
